@@ -1,0 +1,13 @@
+C:\Users\adaut\source\repos\RicardoProj\RicardoProj\bin\Debug\netcoreapp3.1\RicardoProj.exe
+C:\Users\adaut\source\repos\RicardoProj\RicardoProj\bin\Debug\netcoreapp3.1\RicardoProj.deps.json
+C:\Users\adaut\source\repos\RicardoProj\RicardoProj\bin\Debug\netcoreapp3.1\RicardoProj.runtimeconfig.json
+C:\Users\adaut\source\repos\RicardoProj\RicardoProj\bin\Debug\netcoreapp3.1\RicardoProj.runtimeconfig.dev.json
+C:\Users\adaut\source\repos\RicardoProj\RicardoProj\bin\Debug\netcoreapp3.1\RicardoProj.dll
+C:\Users\adaut\source\repos\RicardoProj\RicardoProj\bin\Debug\netcoreapp3.1\RicardoProj.pdb
+C:\Users\adaut\source\repos\RicardoProj\RicardoProj\obj\Debug\netcoreapp3.1\RicardoProj.csprojAssemblyReference.cache
+C:\Users\adaut\source\repos\RicardoProj\RicardoProj\obj\Debug\netcoreapp3.1\RicardoProj.csproj.CoreCompileInputs.cache
+C:\Users\adaut\source\repos\RicardoProj\RicardoProj\obj\Debug\netcoreapp3.1\RicardoProj.AssemblyInfoInputs.cache
+C:\Users\adaut\source\repos\RicardoProj\RicardoProj\obj\Debug\netcoreapp3.1\RicardoProj.AssemblyInfo.cs
+C:\Users\adaut\source\repos\RicardoProj\RicardoProj\obj\Debug\netcoreapp3.1\RicardoProj.dll
+C:\Users\adaut\source\repos\RicardoProj\RicardoProj\obj\Debug\netcoreapp3.1\RicardoProj.pdb
+C:\Users\adaut\source\repos\RicardoProj\RicardoProj\obj\Debug\netcoreapp3.1\RicardoProj.genruntimeconfig.cache
