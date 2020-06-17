@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adaut\\source\\repos\\RicardoProj\\RicardoProj\\RicardoProj.csproj",
+      "projectUniqueName": "D:\\Ricardo\\repos\\RicardoProgs\\RicardoProj\\RicardoProj.csproj",
       "projectName": "RicardoProj",
-      "projectPath": "C:\\Users\\adaut\\source\\repos\\RicardoProj\\RicardoProj\\RicardoProj.csproj",
+      "projectPath": "D:\\Ricardo\\repos\\RicardoProgs\\RicardoProj\\RicardoProj.csproj",
       "packagesPath": "C:\\Users\\adaut\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adaut\\source\\repos\\RicardoProj\\RicardoProj\\obj\\",
+      "outputPath": "D:\\Ricardo\\repos\\RicardoProgs\\RicardoProj\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

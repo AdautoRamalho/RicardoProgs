@@ -11,3 +11,16 @@ C:\Users\adaut\source\repos\RicardoProj\RicardoProj\obj\Debug\netcoreapp3.1\Rica
 C:\Users\adaut\source\repos\RicardoProj\RicardoProj\obj\Debug\netcoreapp3.1\RicardoProj.dll
 C:\Users\adaut\source\repos\RicardoProj\RicardoProj\obj\Debug\netcoreapp3.1\RicardoProj.pdb
 C:\Users\adaut\source\repos\RicardoProj\RicardoProj\obj\Debug\netcoreapp3.1\RicardoProj.genruntimeconfig.cache
+D:\Ricardo\repos\RicardoProgs\RicardoProj\bin\Debug\netcoreapp3.1\RicardoProj.exe
+D:\Ricardo\repos\RicardoProgs\RicardoProj\bin\Debug\netcoreapp3.1\RicardoProj.deps.json
+D:\Ricardo\repos\RicardoProgs\RicardoProj\bin\Debug\netcoreapp3.1\RicardoProj.runtimeconfig.json
+D:\Ricardo\repos\RicardoProgs\RicardoProj\bin\Debug\netcoreapp3.1\RicardoProj.runtimeconfig.dev.json
+D:\Ricardo\repos\RicardoProgs\RicardoProj\bin\Debug\netcoreapp3.1\RicardoProj.dll
+D:\Ricardo\repos\RicardoProgs\RicardoProj\bin\Debug\netcoreapp3.1\RicardoProj.pdb
+D:\Ricardo\repos\RicardoProgs\RicardoProj\obj\Debug\netcoreapp3.1\RicardoProj.csprojAssemblyReference.cache
+D:\Ricardo\repos\RicardoProgs\RicardoProj\obj\Debug\netcoreapp3.1\RicardoProj.csproj.CoreCompileInputs.cache
+D:\Ricardo\repos\RicardoProgs\RicardoProj\obj\Debug\netcoreapp3.1\RicardoProj.AssemblyInfoInputs.cache
+D:\Ricardo\repos\RicardoProgs\RicardoProj\obj\Debug\netcoreapp3.1\RicardoProj.AssemblyInfo.cs
+D:\Ricardo\repos\RicardoProgs\RicardoProj\obj\Debug\netcoreapp3.1\RicardoProj.dll
+D:\Ricardo\repos\RicardoProgs\RicardoProj\obj\Debug\netcoreapp3.1\RicardoProj.pdb
+D:\Ricardo\repos\RicardoProgs\RicardoProj\obj\Debug\netcoreapp3.1\RicardoProj.genruntimeconfig.cache
