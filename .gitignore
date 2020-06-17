@@ -170,3 +170,5 @@ appBundle*.js
 /.vs
 /.cr
 /_setup
+
+./.vs
