@@ -172,3 +172,5 @@ appBundle*.js
 /_setup
 
 ./.vs
+
+.vs/RicardoProj/v16/.suo
